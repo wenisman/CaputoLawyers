@@ -1,0 +1,6 @@
+.op-container ul {
+	overflow: hidden;
+}
+.op-container ul li {
+	margin-left: 20px;
+}

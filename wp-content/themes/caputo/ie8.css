@@ -1,0 +1,24 @@
+.site-header .search-form {
+	border: 1px solid #999999;
+	border-radius: 3px 3px 3px 3px;
+	float: left;
+	margin-top: 5px;
+	width: 190px;
+}
+
+.site-header .search-form input[type="text"] {
+	background-color: #FFFFFF;
+	border-radius: 3px 0 0 3px;
+	box-shadow: 1px 1px 3px #EEEEEE inset;
+	color: #999999;
+	float: left;
+	font-size: 1.4rem;
+	padding: 5px 15px;
+	width: 150px;
+}
+
+.nav-primary {
+	background-color: #004c6d;
+	border-top: 1px solid #78929E;
+	margin-bottom: 5px;
+}
